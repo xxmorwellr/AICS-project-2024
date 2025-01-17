@@ -11,6 +11,6 @@ Basic structure:
 
 `notes/`: for my old submissions; here *old_project.ipynb* includes the results with *max_program_length* = 3
 
-`paper/`: for my course report and later presentation 
+`paper/`: for my course paper and presentation slides
 
 *The CLEVR dataset is available on the mlt gpu, so I don't upload here.
